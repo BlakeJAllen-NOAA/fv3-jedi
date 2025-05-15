@@ -488,6 +488,9 @@ do f = 1, size(fields_to_do)
   case ("mass_content_of_graupel_in_atmosphere_column")
   case ("pe")
   case ("p")
+  case("smoke")
+  case("dust")
+  case("coarsepm")
 
   case default
 
