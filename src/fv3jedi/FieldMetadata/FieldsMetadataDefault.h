@@ -117,6 +117,42 @@ namespace fv3jedi {
     md.space = "magnitude";
     addFieldMetadata(fieldsmetadata, nlev, md);
 
+    md.longName = "u_component_of_native_D_grid_wind";
+    md.shortName = "ud";
+    md.units = "ms-1";
+    md.kind = "double";
+    md.tracer = "false";
+    md.levels = "full";
+    md.space = "vector";
+    addFieldMetadata(fieldsmetadata, nlev, md);
+
+    md.longName = "v_component_of_native_D_grid_wind";
+    md.shortName = "vd";
+    md.units = "ms-1";
+    md.kind = "double";
+    md.tracer = "false";
+    md.levels = "full";
+    md.space = "vector";
+    addFieldMetadata(fieldsmetadata, nlev, md);
+
+    md.longName = "u_component_of_native_C_grid_wind";
+    md.shortName = "uc";
+    md.units = "ms-1";
+    md.kind = "double";
+    md.tracer = "false";
+    md.levels = "full";
+    md.space = "vector";
+    addFieldMetadata(fieldsmetadata, nlev, md);
+
+    md.longName = "v_component_of_native_C_grid_wind";
+    md.shortName = "vc";
+    md.units = "ms-1";
+    md.kind = "double";
+    md.tracer = "false";
+    md.levels = "full";
+    md.space = "vector";
+    addFieldMetadata(fieldsmetadata, nlev, md);
+
     md.longName = "air_temperature";
     md.shortName = "t";
     md.units = "K";
