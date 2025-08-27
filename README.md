@@ -8,7 +8,6 @@
 | CLANG         | [![AWS-clang](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieXZSZ21oQ3lueWtTTExxb3VOMlNNWTRlUG1BbENlVWVQZlY2Y2wvYkt3bGtmVnVQdS9SMEtRWWpaRUNic3ozalRTVnczelZJS3o1TTVkU1ZxMjhQOU04PSIsIml2UGFyYW1ldGVyU3BlYyI6Inowd2VWS0prUUlPUEpaQTIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=develop)](https://console.aws.amazon.com/codesuite/codebuild/469205354006/projects/fv3-internal-clang/history) |  
 | Code Coverage | [![codecov](https://codecov.io/gh/JCSDA/fv3-jedi/branch/develop/graph/badge.svg?token=Y2B418LACJ)](https://codecov.io/gh/JCSDA/fv3-jedi) |
 
-
 ### Licence:
 
 (C) Copyright 2017-2021 UCAR
